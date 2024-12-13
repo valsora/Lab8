@@ -18,7 +18,9 @@ public class DataManager {
 
 
     public static void registerDataProcessor(Object processor) {
-        dataProcessor = (ProcessorInterface) processor;
+        if (processor.getClass().isAnnotationPresent(DataProcessor.class) && processor instanceof ProcessorInterface) {
+            dataProcessor = (ProcessorInterface) processor;
+        }
     }
 
     public static void loadData(String source) throws IOException {
@@ -27,8 +29,16 @@ public class DataManager {
     }
 
     public static void processData() {
-        if (dataProcessor != null) data = dataProcessor.process(data);
-        else System.out.println("There is no dataProcessor to process data");
+        if (dataProcessor == null) {
+            System.out.println("There is no dataProcessor to process data");
+            return;
+        }
+        if (data == null) {
+            System.out.println("There is no data");
+            return;
+        }
+        //threadpool
+        data = dataProcessor.process(data);
     }
 
     public static void saveData(String destination) throws IOException {
