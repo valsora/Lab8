@@ -1,0 +1,190 @@
+ID: CT-7567, AKA: captain Rex, Unit: 501st Legion, Kills confirmed: 1245, Missions completed: 251
+ID: CC-2224, AKA: commander Cody, Unit: 212th Attack Battalion, Kills confirmed: 1987, Missions completed: 195
+ID: CC-3636, AKA: commander Wolffe, Unit: 104th Battalion, Kills confirmed: 1150, Missions completed: 124
+ID: CT-1409, AKA: lieutenant Echo, Unit: 501st Legion, Kills confirmed: 872, Missions completed: 74
+ID: CT-5555, AKA: lieutenant Fives, Unit: 501st Legion, Kills confirmed: 789, Missions completed: 66
+ID: RC-1262, AKA: clone commando Scorch, Unit: Delta Squad, Kills confirmed: 8460, Missions completed: 712
+ID: CC-1004, AKA: commander Gree, Unit: 41st Elite Corps, Kills confirmed: 632, Missions completed: 99
+ID: CC-5052, AKA: commander Bly, Unit: 327th Star Corps, Kills confirmed: 1023, Missions completed: 299
+ID: CC-6454, AKA: commander Ponds, Unit: 91st Reconnaissance Corps, Kills confirmed: 589, Missions completed: 105
+ID: CC-8826, AKA: commander Neyo, Unit: 91st Reconnaissance Corps, Kills confirmed: 475, Missions completed: 488
+ID: CT-1034, AKA: trooper Trapper, Unit: 41st Elite Corps, Kills confirmed: 345, Missions completed: 75
+ID: CT-2010, AKA: trooper Jaxx, Unit: 212th Attack Battalion, Kills confirmed: 678, Missions completed: 55
+ID: CT-1119, AKA: sergeant Appo, Unit: 501st Legion, Kills confirmed: 1122, Missions completed: 323
+ID: CT-0043, AKA: trooper Steve, Unit: 327th Star Corps, Kills confirmed: 845, Missions completed: 80
+ID: CT-1810, AKA: trooper Rix, Unit: 41st Elite Corps, Kills confirmed: 420, Missions completed: 27
+ID: CT-6116, AKA: sergeant Hardcase, Unit: 501st Legion, Kills confirmed: 910, Missions completed: 225
+ID: CT-7652, AKA: trooper Bail, Unit: 104th Battalion, Kills confirmed: 750, Missions completed: 381
+ID: CT-0316, AKA: trooper Heat, Unit: 501st Legion, Kills confirmed: 580, Missions completed: 130
+ID: CT-7125, AKA: trooper Search, Unit: 327th Star Corps, Kills confirmed: 380, Missions completed: 118
+ID: CT-8545, AKA: trooper Killer, Unit: 41st Elite Corps, Kills confirmed: 290, Missions completed: 68
+ID: CT-9120, AKA: trooper Flash, Unit: 104th Battalion, Kills confirmed: 620, Missions completed: 337
+ID: CT-4567, AKA: lieutenant Hawk, Unit: 501st Legion, Kills confirmed: 950, Missions completed: 122
+ID: CT-9901, AKA: sergeant Hunter, Unit: Clone Force 99, Kills confirmed: 1320, Missions completed: 180
+ID: CT-9902, AKA: sergeant Tech, Unit: Clone Force 99, Kills confirmed: 680, Missions completed: 58
+ID: CT-9903, AKA: sergeant Wrecker, Unit: Clone Force 99, Kills confirmed: 2080, Missions completed: 547
+ID: CT-9904, AKA: sergeant Crosshair, Unit: Clone Force 99, Kills confirmed: 1770, Missions completed: 242
+ID: CT-2323, AKA: sergeant Heavy, Unit: 501st Legion, Kills confirmed: 930, Missions completed: 302
+ID: CT-3747, AKA: trooper Cutup, Unit: 501st Legion, Kills confirmed: 490, Missions completed: 48
+ID: CT-8761, AKA: trooper Dogma, Unit: 501st Legion, Kills confirmed: 370, Missions completed: 199
+ID: CT-1843, AKA: trooper Kicker, Unit: 212th Attack Battalion, Kills confirmed: 810, Missions completed: 225
+ID: CT-6209, AKA: lieutenant Hammer, Unit: 501st Legion, Kills confirmed: 1150, Missions completed: 169
+ID: CT-5656, AKA: trooper Blaster, Unit: 327th Star Corps, Kills confirmed: 770, Missions completed: 62
+ID: CT-7331, AKA: trooper Rifle, Unit: 104th Battalion, Kills confirmed: 640, Missions completed: 73
+ID: CT-3742, AKA: trooper Marksman, Unit: 91st Reconnaissance Corps, Kills confirmed: 510, Missions completed: 529
+ID: CT-1313, AKA: trooper Bolt, Unit: 41st Elite Corps, Kills confirmed: 440, Missions completed: 82
+ID: CT-6297, AKA: trooper Tracker, Unit: 212th Attack Battalion, Kills confirmed: 990, Missions completed: 68
+ID: CT-8787, AKA: trooper Pilot, Unit: 501st Legion, Kills confirmed: 1080, Missions completed: 105
+ID: CT-4343, AKA: trooper Gunner, Unit: 327th Star Corps, Kills confirmed: 880, Missions completed: 59
+ID: CT-9188, AKA: sergeant Medic, Unit: 104th Battalion, Kills confirmed: 710, Missions completed: 97
+ID: CT-9191, AKA: trooper Scout, Unit: 91st Reconnaissance Corps, Kills confirmed: 660, Missions completed: 139
+ID: CT-3232, AKA: sergeant Sarge, Unit: 41st Elite Corps, Kills confirmed: 530, Missions completed: 50
+ID: CT-1095, AKA: trooper Razor, Unit: 212th Attack Battalion, Kills confirmed: 850, Missions completed: 100
+ID: CT-4525, AKA: lieutenant Blade, Unit: 501st Legion, Kills confirmed: 1200, Missions completed: 110
+ID: CT-4819, AKA: trooper Shield, Unit: 327th Star Corps, Kills confirmed: 920, Missions completed: 78
+ID: CT-3490, AKA: trooper Tank, Unit: 104th Battalion, Kills confirmed: 790, Missions completed: 73
+ID: CT-5454, AKA: trooper Trooper, Unit: 91st Reconnaissance Corps, Kills confirmed: 690, Missions completed: 106
+ID: CT-7419, AKA: trooper Legion, Unit: 41st Elite Corps, Kills confirmed: 480, Missions completed: 72
+ID: CT-7613, AKA: sergeant Clank, Unit: 212th Attack Battalion, Kills confirmed: 1010, Missions completed: 349
+ID: CT-3794, AKA: lieutenant Slam, Unit: 501st Legion, Kills confirmed: 1110, Missions completed: 562
+ID: CT-5067, AKA: trooper Blaze, Unit: 327th Star Corps, Kills confirmed: 820, Missions completed: 120
+ID: RC-1138, AKA: clone commando Boss, Unit: Delta Squad, Kills confirmed: 9576, Missions completed: 736
+ID: CT-4788, AKA: trooper Ranger, Unit: 104th Battalion, Kills confirmed: 650, Missions completed: 85
+ID: CT-2674, AKA: trooper Sniper, Unit: 91st Reconnaissance Corps, Kills confirmed: 590, Missions completed: 105
+ID: CT-1945, AKA: trooper Wedge, Unit: 41st Elite Corps, Kills confirmed: 450, Missions completed: 443
+ID: CT-7847, AKA: sergeant Jolt, Unit: 212th Attack Battalion, Kills confirmed: 970, Missions completed: 99
+ID: CT-1215, AKA: lieutenant Nitro, Unit: 501st Legion, Kills confirmed: 1090, Missions completed: 92
+ID: CT-3410, AKA: trooper Iron, Unit: 327th Star Corps, Kills confirmed: 720, Missions completed: 716
+ID: RC-1140, AKA: clone commando Fixer, Unit: Delta Squad, Kills confirmed: 7934, Missions completed: 709
+ID: CT-6490, AKA: trooper Steel, Unit: 104th Battalion, Kills confirmed: 610, Missions completed: 56
+ID: CT-1789, AKA: trooper Brave, Unit: 91st Reconnaissance Corps, Kills confirmed: 570, Missions completed: 39
+ID: CT-6671, AKA: trooper Valiant, Unit: 41st Elite Corps, Kills confirmed: 390, Missions completed: 79
+ID: CT-4237, AKA: trooper Lucky, Unit: 212th Attack Battalion, Kills confirmed: 940, Missions completed: 133
+ID: CT-1449, AKA: sergeant Wild, Unit: 501st Legion, Kills confirmed: 1180, Missions completed: 296
+ID: CT-9121, AKA: trooper Quiet, Unit: 327th Star Corps, Kills confirmed: 860, Missions completed: 112
+ID: CT-3724, AKA: trooper Swift, Unit: 104th Battalion, Kills confirmed: 700, Missions completed: 94
+ID: CT-6727, AKA: trooper Steady, Unit: 91st Reconnaissance Corps, Kills confirmed: 600, Missions completed: 121
+ID: CT-8106, AKA: trooper Silent, Unit: 41st Elite Corps, Kills confirmed: 520, Missions completed: 72
+ID: CT-3287, AKA: trooper Mace, Unit: 212th Attack Battalion, Kills confirmed: 893, Missions completed: 160
+ID: CT-4096, AKA: captain Axe, Unit: 501st Legion, Kills confirmed: 1210, Missions completed: 97
+ID: CT-2078, AKA: trooper Sword, Unit: 327th Star Corps, Kills confirmed: 900, Missions completed: 487
+ID: CT-4212, AKA: trooper Lance, Unit: 104th Battalion, Kills confirmed: 740, Missions completed: 291
+ID: CT-3452, AKA: trooper Rook, Unit: 91st Reconnaissance Corps, Kills confirmed: 620, Missions completed: 56
+ID: CT-2452, AKA: trooper Bishop, Unit: 41st Elite Corps, Kills confirmed: 410, Missions completed: 400
+ID: CT-4959, AKA: lieutenant Knight, Unit: 212th Attack Battalion, Kills confirmed: 1030, Missions completed: 137
+ID: CT-2001, AKA: captain Queen, Unit: 501st Legion, Kills confirmed: 1140, Missions completed: 278
+ID: CT-3076, AKA: trooper King, Unit: 327th Star Corps, Kills confirmed: 870, Missions completed: 438
+ID: CT-3858, AKA: trooper Ace, Unit: 104th Battalion, Kills confirmed: 730, Missions completed: 62
+ID: CT-1912, AKA: trooper Spade, Unit: 91st Reconnaissance Corps, Kills confirmed: 560, Missions completed: 89
+ID: CT-3604, AKA: trooper Club, Unit: 41st Elite Corps, Kills confirmed: 380, Missions completed: 69
+ID: CT-2397, AKA: sergeant Diamond, Unit: 212th Attack Battalion, Kills confirmed: 960, Missions completed: 118
+ID: CT-3589, AKA: sergeant Comet, Unit: 501st Legion, Kills confirmed: 1170, Missions completed: 328
+ID: CT-5571, AKA: trooper Star, Unit: 327th Star Corps, Kills confirmed: 831, Missions completed: 98
+ID: CT-6920, AKA: trooper Nova, Unit: 212th Attack Battalion, Kills confirmed: 690, Missions completed: 385
+ID: CT-7098, AKA: trooper Solar, Unit: 91st Reconnaissance Corps, Kills confirmed: 540, Missions completed: 123
+ID: CT-1293, AKA: trooper Lunar, Unit: 41st Elite Corps, Kills confirmed: 460, Missions completed: 113
+ID: CT-3830, AKA: sergeant Ort, Unit: 212th Attack Battalion, Kills confirmed: 920, Missions completed: 149
+ID: CT-6747, AKA: captain Galaxy, Unit: 501st Legion, Kills confirmed: 1220, Missions completed: 244
+ID: CT-8909, AKA: trooper Cosmo, Unit: 327th Star Corps, Kills confirmed: 750, Missions completed: 98
+ID: CT-2791, AKA: trooper Atom, Unit: 104th Battalion, Kills confirmed: 600, Missions completed: 122
+ID: CT-4495, AKA: trooper Quark, Unit: 91st Reconnaissance Corps, Kills confirmed: 480, Missions completed: 94
+ID: CT-7817, AKA: trooper Photon, Unit: 41st Elite Corps, Kills confirmed: 360, Missions completed: 29
+ID: CT-1001, AKA: lieutenant Rogue, Unit: 212th Attack Battalion, Kills confirmed: 990, Missions completed: 65
+ID: CT-3434, AKA: trooper Shadow, Unit: 501st Legion, Kills confirmed: 1050, Missions completed: 223
+ID: CT-6767, AKA: sergeant Phantom, Unit: 327th Star Corps, Kills confirmed: 800, Missions completed: 106
+ID: CT-8989, AKA: trooper Ghost, Unit: 104th Battalion, Kills confirmed: 660, Missions completed: 351
+ID: CT-2121, AKA: trooper Wraith, Unit: 91st Reconnaissance Corps, Kills confirmed: 500, Missions completed: 47
+ID: CT-4545, AKA: trooper Specter, Unit: 41st Elite Corps, Kills confirmed: 430, Missions completed: 86
+ID: CT-7878, AKA: lieutenant Viper, Unit: 212th Attack Battalion, Kills confirmed: 880, Missions completed: 112
+ID: CT-1212, AKA: captain Cobra, Unit: 501st Legion, Kills confirmed: 1190, Missions completed: 634
+ID: CT-0221, AKA: trooper Slip, Unit: 501st Legion, Kills confirmed: 760, Missions completed: 231
+ID: CT-7899, AKA: trooper Clutch, Unit: 212th Attack Battalion, Kills confirmed: 930, Missions completed: 278
+ID: CT-1991, AKA: trooper Gnash, Unit: 104th Battalion, Kills confirmed: 480, Missions completed: 71
+ID: CT-8876, AKA: trooper Ruff, Unit: 327th Star Corps, Kills confirmed: 1020, Missions completed: 381
+ID: CT-0812, AKA: trooper Rip, Unit: 91st Reconnaissance Corps, Kills confirmed: 670, Missions completed: 78
+ID: CT-3330, AKA: trooper Saber, Unit: 41st Elite Corps, Kills confirmed: 770, Missions completed: 99
+ID: CT-5544, AKA: trooper Sam, Unit: 501st Legion, Kills confirmed: 550, Missions completed: 42
+ID: CT-0099, AKA: trooper Bolin, Unit: 212th Attack Battalion, Kills confirmed: 880, Missions completed: 299
+ID: CT-9922, AKA: trooper Quake, Unit: 104th Battalion, Kills confirmed: 990, Missions completed: 1010
+ID: CT-1133, AKA: trooper Vex, Unit: 327th Star Corps, Kills confirmed: 450, Missions completed: 59
+ID: CT-2266, AKA: sergeant Zero, Unit: 91st Reconnaissance Corps, Kills confirmed: 1010, Missions completed: 124
+ID: CT-3399, AKA: trooper Zen, Unit: 41st Elite Corps, Kills confirmed: 690, Missions completed: 48
+ID: CT-0778, AKA: trooper Dash, Unit: 501st Legion, Kills confirmed: 820, Missions completed: 101
+ID: CT-1188, AKA: trooper Rush, Unit: 212th Attack Battalion, Kills confirmed: 735, Missions completed: 158
+ID: CT-9955, AKA: trooper Stomp, Unit: 104th Battalion, Kills confirmed: 970, Missions completed: 129
+ID: CT-8866, AKA: lieutenant Sly, Unit: 327th Star Corps, Kills confirmed: 590, Missions completed: 64
+ID: CT-7788, AKA: trooper Vibe, Unit: 91st Reconnaissance Corps, Kills confirmed: 620, Missions completed: 214
+ID: CT-6699, AKA: trooper Eco, Unit: 41st Elite Corps, Kills confirmed: 920, Missions completed: 322
+ID: CT-4411, AKA: trooper Talon, Unit: 501st Legion, Kills confirmed: 430, Missions completed: 90
+ID: CT-5522, AKA: sergeant Razer, Unit: 212th Attack Battalion, Kills confirmed: 1050, Missions completed: 363
+ID: CT-9988, AKA: trooper Stryke, Unit: 104th Battalion, Kills confirmed: 870, Missions completed: 911
+ID: CT-7755, AKA: lieutenant Crash, Unit: 327th Star Corps, Kills confirmed: 570, Missions completed: 111
+ID: CT-6633, AKA: trooper Boom, Unit: 91st Reconnaissance Corps, Kills confirmed: 790, Missions completed: 97
+ID: CT-0220, AKA: trooper Jinx, Unit: 41st Elite Corps, Kills confirmed: 610, Missions completed: 93
+ID: CT-4455, AKA: sergeant Hawker, Unit: 501st Legion, Kills confirmed: 1130, Missions completed: 287
+ID: CT-1101, AKA: trooper Eagle, Unit: 212th Attack Battalion, Kills confirmed: 890, Missions completed: 149
+ID: CT-2202, AKA: trooper Falcon, Unit: 104th Battalion, Kills confirmed: 558, Missions completed: 106
+ID: CT-3303, AKA: sergeant Storm, Unit: 327th Star Corps, Kills confirmed: 710, Missions completed: 101
+ID: CT-4404, AKA: trooper Jet, Unit: 91st Reconnaissance Corps, Kills confirmed: 950, Missions completed: 188
+ID: CT-5505, AKA: trooper Sky, Unit: 41st Elite Corps, Kills confirmed: 720, Missions completed: 69
+ID: CT-6606, AKA: trooper Riff, Unit: 501st Legion, Kills confirmed: 1020, Missions completed: 108
+ID: CT-7707, AKA: lieutenant Wisp, Unit: 212th Attack Battalion, Kills confirmed: 630, Missions completed: 132
+ID: CT-8808, AKA: trooper Rune, Unit: 104th Battalion, Kills confirmed: 980, Missions completed: 81
+ID: CT-9909, AKA: sergeant Glitch, Unit: 327th Star Corps, Kills confirmed: 470, Missions completed: 100
+ID: CT-0110, AKA: trooper Code, Unit: 91st Reconnaissance Corps, Kills confirmed: 510, Missions completed: 70
+ID: CT-1221, AKA: trooper Bite, Unit: 41st Elite Corps, Kills confirmed: 860, Missions completed: 132
+ID: CT-2332, AKA: trooper Chip, Unit: 501st Legion, Kills confirmed: 1110, Missions completed: 90
+ID: CT-3443, AKA: lieutenant Cors, Unit: 212th Attack Battalion, Kills confirmed: 780, Missions completed: 55
+ID: CT-4554, AKA: trooper Data, Unit: 104th Battalion, Kills confirmed: 910, Missions completed: 108
+ID: CT-5665, AKA: trooper Logg, Unit: 327th Star Corps, Kills confirmed: 600, Missions completed: 71
+ID: CT-6776, AKA: sergeant Pixel, Unit: 91st Reconnaissance Corps, Kills confirmed: 490, Missions completed: 81
+ID: CT-7887, AKA: trooper Bit, Unit: 41st Elite Corps, Kills confirmed: 764, Missions completed: 88
+ID: CT-8998, AKA: lieutenant Force, Unit: 501st Legion, Kills confirmed: 840, Missions completed: 426
+ID: CT-0119, AKA: trooper Power, Unit: 212th Attack Battalion, Kills confirmed: 930, Missions completed: 99
+ID: RC-1207, AKA: clone commando Sev, Unit: Delta Squad, Kills confirmed: 12846, Missions completed: 698
+ID: CT-1220, AKA: trooper Blast, Unit: 104th Battalion, Kills confirmed: 1010, Missions completed: 134
+ID: CT-2331, AKA: trooper Pulse, Unit: 327th Star Corps, Kills confirmed: 520, Missions completed: 65
+ID: CT-3442, AKA: trooper Spark, Unit: 91st Reconnaissance Corps, Kills confirmed: 670, Missions completed: 86
+ID: CT-4553, AKA: trooper Charge, Unit: 41st Elite Corps, Kills confirmed: 790, Missions completed: 86
+ID: CT-5664, AKA: trooper Fury, Unit: 501st Legion, Kills confirmed: 960, Missions completed: 235
+ID: CT-6775, AKA: sergeant Rage, Unit: 212th Attack Battalion, Kills confirmed: 440, Missions completed: 58
+ID: CT-7886, AKA: trooper Smash, Unit: 104th Battalion, Kills confirmed: 820, Missions completed: 153
+ID: CT-8997, AKA: lieutenant Crush, Unit: 327th Star Corps, Kills confirmed: 1030, Missions completed: 80
+ID: CT-0118, AKA: trooper Blitz, Unit: 91st Reconnaissance Corps, Kills confirmed: 550, Missions completed: 107
+ID: CT-1229, AKA: trooper Moxie, Unit: 41st Elite Corps, Kills confirmed: 730, Missions completed: 58
+ID: CT-2330, AKA: trooper Vigor, Unit: 501st Legion, Kills confirmed: 870, Missions completed: 137
+ID: CT-3441, AKA: trooper Zest, Unit: 212th Attack Battalion, Kills confirmed: 620, Missions completed: 165
+ID: CT-4552, AKA: trooper Flair, Unit: 104th Battalion, Kills confirmed: 997, Missions completed: 178
+ID: CT-5663, AKA: sergeant Charm, Unit: 327th Star Corps, Kills confirmed: 480, Missions completed: 257
+ID: CT-6774, AKA: trooper Glee, Unit: 91st Reconnaissance Corps, Kills confirmed: 1050, Missions completed: 81
+ID: CT-7885, AKA: trooper Hope, Unit: 41st Elite Corps, Kills confirmed: 530, Missions completed: 117
+ID: CT-8996, AKA: sergeant Dream, Unit: 501st Legion, Kills confirmed: 710, Missions completed: 165
+ID: CT-0117, AKA: trooper Focus, Unit: 212th Attack Battalion, Kills confirmed: 810, Missions completed: 152
+ID: CT-1228, AKA: trooper Drive, Unit: 104th Battalion, Kills confirmed: 650, Missions completed: 90
+ID: CT-2339, AKA: trooper Spirt, Unit: 327th Star Corps, Kills confirmed: 950, Missions completed: 99
+ID: CT-3440, AKA: trooper Thrill, Unit: 91st Reconnaissance Corps, Kills confirmed: 570, Missions completed: 299
+ID: CT-4551, AKA: lieutenant Edge, Unit: 41st Elite Corps, Kills confirmed: 770, Missions completed: 96
+ID: CT-5662, AKA: trooper Shift, Unit: 501st Legion, Kills confirmed: 880, Missions completed: 98
+ID: CT-6773, AKA: trooper Slide, Unit: 212th Attack Battalion, Kills confirmed: 420, Missions completed: 59
+ID: CT-7884, AKA: trooper Leap, Unit: 104th Battalion, Kills confirmed: 1020, Missions completed: 162
+ID: CT-8995, AKA: lieutenant Bound, Unit: 327th Star Corps, Kills confirmed: 690, Missions completed: 107
+ID: CT-0116, AKA: trooper Soar, Unit: 91st Reconnaissance Corps, Kills confirmed: 590, Missions completed: 80
+ID: CT-1227, AKA: sergeant Glide, Unit: 41st Elite Corps, Kills confirmed: 970, Missions completed: 151
+ID: CT-2338, AKA: trooper Drift, Unit: 501st Legion, Kills confirmed: 442, Missions completed: 132
+ID: CT-3449, AKA: trooper Swirl, Unit: 212th Attack Battalion, Kills confirmed: 1030, Missions completed: 105
+ID: CT-4550, AKA: trooper Orbit, Unit: 104th Battalion, Kills confirmed: 750, Missions completed: 262
+ID: CT-5661, AKA: sergeant Vortex, Unit: 327th Star Corps, Kills confirmed: 580, Missions completed: 121
+ID: CT-6772, AKA: trooper Twist, Unit: 91st Reconnaissance Corps, Kills confirmed: 840, Missions completed: 98
+ID: CT-7883, AKA: trooper Curl, Unit: 41st Elite Corps, Kills confirmed: 700, Missions completed: 255
+ID: CT-8994, AKA: trooper Blend, Unit: 501st Legion, Kills confirmed: 1150, Missions completed: 151
+ID: CT-0115, AKA: lieutenant Merge, Unit: 212th Attack Battalion, Kills confirmed: 610, Missions completed: 67
+ID: CT-1226, AKA: trooper Mix, Unit: 104th Battalion, Kills confirmed: 470, Missions completed: 166
+ID: CT-2337, AKA: trooper Match, Unit: 327th Star Corps, Kills confirmed: 890, Missions completed: 103
+ID: CT-3448, AKA: trooper Fuse, Unit: 91st Reconnaissance Corps, Kills confirmed: 510, Missions completed: 118
+ID: CT-4559, AKA: trooper Link, Unit: 41st Elite Corps, Kills confirmed: 910, Missions completed: 114
+ID: CT-5660, AKA: sergeant Bond, Unit: 501st Legion, Kills confirmed: 720, Missions completed: 75
+ID: CT-6771, AKA: trooper Ally, Unit: 212th Attack Battalion, Kills confirmed: 630, Missions completed: 176
+ID: CT-7882, AKA: trooper Pact, Unit: 104th Battalion, Kills confirmed: 464, Missions completed: 70
+ID: CT-8993, AKA: sergeant Oath, Unit: 327th Star Corps, Kills confirmed: 780, Missions completed: 111
+ID: CT-0114, AKA: trooper Covenant, Unit: 91st Reconnaissance Corps, Kills confirmed: 1040, Missions completed: 112
+ID: CT-1225, AKA: trooper Truce, Unit: 41st Elite Corps, Kills confirmed: 559, Missions completed: 88

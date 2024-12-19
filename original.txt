@@ -1,0 +1,190 @@
+Nickname: "Rex", Number: CT-7567, Unit: 501st Legion, Droids: 1245, Rank: captain
+Nickname: "Cody", Number: CC-2224, Unit: 212th Attack Battalion, Droids: 1987, Rank: commander
+Nickname: "Wolffe", Number: CC-3636, Unit: 104th Battalion, Droids: 1150, Rank: commander
+Nickname: "Echo", Number: CT-1409, Unit: 501st Legion, Droids: 872, Rank: lieutenant
+Nickname: "Fives", Number: CT-5555, Unit: 501st Legion, Droids: 789, Rank: lieutenant
+Nickname: "Scorch", Number: RC-1262, Unit: Delta Squad, Droids: 8460, Rank: clone commando
+Nickname: "Gree", Number: CC-1004, Unit: 41st Elite Corps, Droids: 632, Rank: commander
+Nickname: "Bly", Number: CC-5052, Unit: 327th Star Corps, Droids: 1023, Rank: commander
+Nickname: "Ponds", Number: CC-6454, Unit: 91st Reconnaissance Corps, Droids: 589, Rank: commander
+Nickname: "Neyo", Number: CC-8826, Unit: 91st Reconnaissance Corps, Droids: 475, Rank: commander
+Nickname: "Trapper", Number: CT-1034, Unit: 41st Elite Corps, Droids: 345, Rank: trooper
+Nickname: "Jaxx", Number: CT-2010, Unit: 212th Attack Battalion, Droids: 678, Rank: trooper
+Nickname: "Appo", Number: CT-1119, Unit: 501st Legion, Droids: 1122, Rank: sergeant
+Nickname: "Steve", Number: CT-0043, Unit: 327th Star Corps, Droids: 845, Rank: trooper
+Nickname: "Rix", Number: CT-1810, Unit: 41st Elite Corps, Droids: 420, Rank: trooper
+Nickname: "Hardcase", Number: CT-6116, Unit: 501st Legion, Droids: 910, Rank: sergeant
+Nickname: "Bail", Number: CT-7652, Unit: 104th Battalion, Droids: 750, Rank: trooper
+Nickname: "Heat", Number: CT-0316, Unit: 501st Legion, Droids: 580, Rank: trooper
+Nickname: "Search", Number: CT-7125, Unit: 327th Star Corps, Droids: 380, Rank: trooper
+Nickname: "Killer", Number: CT-8545, Unit: 41st Elite Corps, Droids: 290, Rank: trooper
+Nickname: "Flash", Number: CT-9120, Unit: 104th Battalion, Droids: 620, Rank: trooper
+Nickname: "Hawk", Number: CT-4567, Unit: 501st Legion, Droids: 950, Rank: lieutenant
+Nickname: "Hunter", Number: CT-9901, Unit: Clone Force 99, Droids: 1320, Rank: trooper
+Nickname: "Tech", Number: CT-9902, Unit: Clone Force 99, Droids: 680, Rank: trooper
+Nickname: "Wrecker", Number: CT-9903, Unit: Clone Force 99, Droids: 2080, Rank: trooper
+Nickname: "Crosshair", Number: CT-9904, Unit: Clone Force 99, Droids: 1770, Rank: trooper
+Nickname: "Heavy", Number: CT-2323, Unit: 501st Legion, Droids: 930, Rank: sergeant
+Nickname: "Cutup", Number: CT-3747, Unit: 501st Legion, Droids: 490, Rank: trooper
+Nickname: "Dogma", Number: CT-8761, Unit: 501st Legion, Droids: 370, Rank: trooper
+Nickname: "Kicker", Number: CT-1843, Unit: 212th Attack Battalion, Droids: 810, Rank: trooper
+Nickname: "Hammer", Number: CT-6209, Unit: 501st Legion, Droids: 1150, Rank: lieutenant
+Nickname: "Blaster", Number: CT-5656, Unit: 327th Star Corps, Droids: 770, Rank: trooper
+Nickname: "Rifle", Number: CT-7331, Unit: 104th Battalion, Droids: 640, Rank: trooper
+Nickname: "Marksman", Number: CT-3742, Unit: 91st Reconnaissance Corps, Droids: 510, Rank: trooper
+Nickname: "Bolt", Number: CT-1313, Unit: 41st Elite Corps, Droids: 440, Rank: trooper
+Nickname: "Tracker", Number: CT-6297, Unit: 212th Attack Battalion, Droids: 990, Rank: trooper
+Nickname: "Pilot", Number: CT-8787, Unit: 501st Legion, Droids: 1080, Rank: trooper
+Nickname: "Gunner", Number: CT-4343, Unit: 327th Star Corps, Droids: 880, Rank: trooper
+Nickname: "Medic", Number: CT-9188, Unit: 104th Battalion, Droids: 710, Rank: sergeant
+Nickname: "Scout", Number: CT-9191, Unit: 91st Reconnaissance Corps, Droids: 660, Rank: trooper
+Nickname: "Sarge", Number: CT-3232, Unit: 41st Elite Corps, Droids: 530, Rank: sergeant
+Nickname: "Razor", Number: CT-1095, Unit: 212th Attack Battalion, Droids: 850, Rank: trooper
+Nickname: "Blade", Number: CT-4525, Unit: 501st Legion, Droids: 1200, Rank: lieutenant
+Nickname: "Shield", Number: CT-4819, Unit: 327th Star Corps, Droids: 920, Rank: trooper
+Nickname: "Tank", Number: CT-3490, Unit: 104th Battalion, Droids: 790, Rank: trooper
+Nickname: "Trooper", Number: CT-5454, Unit: 91st Reconnaissance Corps, Droids: 690, Rank: trooper
+Nickname: "Legion", Number: CT-7419, Unit: 41st Elite Corps, Droids: 480, Rank: trooper
+Nickname: "Clank", Number: CT-7613, Unit: 212th Attack Battalion, Droids: 1010, Rank: sergeant
+Nickname: "Slam", Number: CT-3794, Unit: 501st Legion, Droids: 1110, Rank: lieutenant
+Nickname: "Blaze", Number: CT-5067, Unit: 327th Star Corps, Droids: 820, Rank: trooper
+Nickname: "Boss", Number: RC-1138, Unit: Delta Squad, Droids: 9576, Rank: clone commando
+Nickname: "Ranger", Number: CT-4788, Unit: 104th Battalion, Droids: 650, Rank: trooper
+Nickname: "Sniper", Number: CT-2674, Unit: 91st Reconnaissance Corps, Droids: 590, Rank: trooper
+Nickname: "Wedge", Number: CT-1945, Unit: 41st Elite Corps, Droids: 450, Rank: trooper
+Nickname: "Jolt", Number: CT-7847, Unit: 212th Attack Battalion, Droids: 970, Rank: sergeant
+Nickname: "Nitro", Number: CT-1215, Unit: 501st Legion, Droids: 1090, Rank: lieutenant
+Nickname: "Iron", Number: CT-3410, Unit: 327th Star Corps, Droids: 720, Rank: trooper
+Nickname: "Fixer", Number: RC-1140, Unit: Delta Squad, Droids: 7934, Rank: clone commando
+Nickname: "Steel", Number: CT-6490, Unit: 104th Battalion, Droids: 610, Rank: trooper
+Nickname: "Brave", Number: CT-1789, Unit: 91st Reconnaissance Corps, Droids: 570, Rank: trooper
+Nickname: "Valiant", Number: CT-6671, Unit: 41st Elite Corps, Droids: 390, Rank: trooper
+Nickname: "Lucky", Number: CT-4237, Unit: 212th Attack Battalion, Droids: 940, Rank: trooper
+Nickname: "Wild", Number: CT-1449, Unit: 501st Legion, Droids: 1180, Rank: sergeant
+Nickname: "Quiet", Number: CT-9121, Unit: 327th Star Corps, Droids: 860, Rank: trooper
+Nickname: "Swift", Number: CT-3724, Unit: 104th Battalion, Droids: 700, Rank: trooper
+Nickname: "Steady", Number: CT-6727, Unit: 91st Reconnaissance Corps, Droids: 600, Rank: trooper
+Nickname: "Silent", Number: CT-8106, Unit: 41st Elite Corps, Droids: 520, Rank: trooper
+Nickname: "Mace", Number: CT-3287, Unit: 212th Attack Battalion, Droids: 893, Rank: trooper
+Nickname: "Axe", Number: CT-4096, Unit: 501st Legion, Droids: 1210, Rank: captain
+Nickname: "Sword", Number: CT-2078, Unit: 327th Star Corps, Droids: 900, Rank: trooper
+Nickname: "Lance", Number: CT-4212, Unit: 104th Battalion, Droids: 740, Rank: trooper
+Nickname: "Rook", Number: CT-3452, Unit: 91st Reconnaissance Corps, Droids: 620, Rank: trooper
+Nickname: "Bishop", Number: CT-2452, Unit: 41st Elite Corps, Droids: 410, Rank: trooper
+Nickname: "Knight", Number: CT-4959, Unit: 212th Attack Battalion, Droids: 1030, Rank: lieutenant
+Nickname: "Queen", Number: CT-2001, Unit: 501st Legion, Droids: 1140, Rank: captain
+Nickname: "King", Number: CT-3076, Unit: 327th Star Corps, Droids: 870, Rank: trooper
+Nickname: "Ace", Number: CT-3858, Unit: 104th Battalion, Droids: 730, Rank: trooper
+Nickname: "Spade", Number: CT-1912, Unit: 91st Reconnaissance Corps, Droids: 560, Rank: trooper
+Nickname: "Club", Number: CT-3604, Unit: 41st Elite Corps, Droids: 380, Rank: trooper
+Nickname: "Diamond", Number: CT-2397, Unit: 212th Attack Battalion, Droids: 960, Rank: sergeant
+Nickname: "Comet", Number: CT-3589, Unit: 501st Legion, Droids: 1170, Rank: sergeant
+Nickname: "Star", Number: CT-5571, Unit: 327th Star Corps, Droids: 831, Rank: trooper
+Nickname: "Nova", Number: CT-6920, Unit: 212th Attack Battalion, Droids: 690, Rank: trooper
+Nickname: "Solar", Number: CT-7098, Unit: 91st Reconnaissance Corps, Droids: 540, Rank: trooper
+Nickname: "Lunar", Number: CT-1293, Unit: 41st Elite Corps, Droids: 460, Rank: trooper
+Nickname: "Ort", Number: CT-3830, Unit: 212th Attack Battalion, Droids: 920, Rank: sergeant
+Nickname: "Galaxy", Number: CT-6747, Unit: 501st Legion, Droids: 1220, Rank: captain
+Nickname: "Cosmo", Number: CT-8909, Unit: 327th Star Corps, Droids: 750, Rank: trooper
+Nickname: "Atom", Number: CT-2791, Unit: 104th Battalion, Droids: 600, Rank: trooper
+Nickname: "Quark", Number: CT-4495, Unit: 91st Reconnaissance Corps, Droids: 480, Rank: trooper
+Nickname: "Photon", Number: CT-7817, Unit: 41st Elite Corps, Droids: 360, Rank: trooper
+Nickname: "Rogue", Number: CT-1001, Unit: 212th Attack Battalion, Droids: 990, Rank: lieutenant
+Nickname: "Shadow", Number: CT-3434, Unit: 501st Legion, Droids: 1050, Rank: trooper
+Nickname: "Phantom", Number: CT-6767, Unit: 327th Star Corps, Droids: 800, Rank: sergeant
+Nickname: "Ghost", Number: CT-8989, Unit: 104th Battalion, Droids: 660, Rank: trooper
+Nickname: "Wraith", Number: CT-2121, Unit: 91st Reconnaissance Corps, Droids: 500, Rank: trooper
+Nickname: "Specter", Number: CT-4545, Unit: 41st Elite Corps, Droids: 430, Rank: trooper
+Nickname: "Viper", Number: CT-7878, Unit: 212th Attack Battalion, Droids: 880, Rank: lieutenant
+Nickname: "Cobra", Number: CT-1212, Unit: 501st Legion, Droids: 1190, Rank: captain
+Nickname: "Slip", Number: CT-0221, Unit: 501st Legion, Droids: 760, Rank: trooper
+Nickname: "Clutch", Number: CT-7899, Unit: 212th Attack Battalion, Droids: 930, Rank: trooper
+Nickname: "Gnash", Number: CT-1991, Unit: 104th Battalion, Droids: 480, Rank: trooper
+Nickname: "Ruff", Number: CT-8876, Unit: 327th Star Corps, Droids: 1020, Rank: trooper
+Nickname: "Rip", Number: CT-0812, Unit: 91st Reconnaissance Corps, Droids: 670, Rank: trooper
+Nickname: "Saber", Number: CT-3330, Unit: 41st Elite Corps, Droids: 770, Rank: trooper
+Nickname: "Sam", Number: CT-5544, Unit: 501st Legion, Droids: 550, Rank: trooper
+Nickname: "Bolin", Number: CT-0099, Unit: 212th Attack Battalion, Droids: 880, Rank: trooper
+Nickname: "Quake", Number: CT-9922, Unit: 104th Battalion, Droids: 990, Rank: trooper
+Nickname: "Vex", Number: CT-1133, Unit: 327th Star Corps, Droids: 450, Rank: trooper
+Nickname: "Zero", Number: CT-2266, Unit: 91st Reconnaissance Corps, Droids: 1010, Rank: sergeant
+Nickname: "Zen", Number: CT-3399, Unit: 41st Elite Corps, Droids: 690, Rank: trooper
+Nickname: "Dash", Number: CT-0778, Unit: 501st Legion, Droids: 820, Rank: trooper
+Nickname: "Rush", Number: CT-1188, Unit: 212th Attack Battalion, Droids: 735, Rank: trooper
+Nickname: "Stomp", Number: CT-9955, Unit: 104th Battalion, Droids: 970, Rank: trooper
+Nickname: "Sly", Number: CT-8866, Unit: 327th Star Corps, Droids: 590, Rank: lieutenant
+Nickname: "Vibe", Number: CT-7788, Unit: 91st Reconnaissance Corps, Droids: 620, Rank: trooper
+Nickname: "Eco", Number: CT-6699, Unit: 41st Elite Corps, Droids: 920, Rank: trooper
+Nickname: "Talon", Number: CT-4411, Unit: 501st Legion, Droids: 430, Rank: trooper
+Nickname: "Razer", Number: CT-5522, Unit: 212th Attack Battalion, Droids: 1050, Rank: sergeant
+Nickname: "Stryke", Number: CT-9988, Unit: 104th Battalion, Droids: 870, Rank: trooper
+Nickname: "Crash", Number: CT-7755, Unit: 327th Star Corps, Droids: 570, Rank: lieutenant
+Nickname: "Boom", Number: CT-6633, Unit: 91st Reconnaissance Corps, Droids: 790, Rank: trooper
+Nickname: "Jinx", Number: CT-0220, Unit: 41st Elite Corps, Droids: 610, Rank: trooper
+Nickname: "Hawker", Number: CT-4455, Unit: 501st Legion, Droids: 1130, Rank: sergeant
+Nickname: "Eagle", Number: CT-1101, Unit: 212th Attack Battalion, Droids: 890, Rank: trooper
+Nickname: "Falcon", Number: CT-2202, Unit: 104th Battalion, Droids: 558, Rank: trooper
+Nickname: "Storm", Number: CT-3303, Unit: 327th Star Corps, Droids: 710, Rank: sergeant
+Nickname: "Jet", Number: CT-4404, Unit: 91st Reconnaissance Corps, Droids: 950, Rank: trooper
+Nickname: "Sky", Number: CT-5505, Unit: 41st Elite Corps, Droids: 720, Rank: trooper
+Nickname: "Riff", Number: CT-6606, Unit: 501st Legion, Droids: 1020, Rank: trooper
+Nickname: "Wisp", Number: CT-7707, Unit: 212th Attack Battalion, Droids: 630, Rank: lieutenant
+Nickname: "Rune", Number: CT-8808, Unit: 104th Battalion, Droids: 980, Rank: trooper
+Nickname: "Glitch", Number: CT-9909, Unit: 327th Star Corps, Droids: 470, Rank: sergeant
+Nickname: "Code", Number: CT-0110, Unit: 91st Reconnaissance Corps, Droids: 510, Rank: trooper
+Nickname: "Bite", Number: CT-1221, Unit: 41st Elite Corps, Droids: 860, Rank: trooper
+Nickname: "Chip", Number: CT-2332, Unit: 501st Legion, Droids: 1110, Rank: trooper
+Nickname: "Cors", Number: CT-3443, Unit: 212th Attack Battalion, Droids: 780, Rank: lieutenant
+Nickname: "Data", Number: CT-4554, Unit: 104th Battalion, Droids: 910, Rank: trooper
+Nickname: "Logg", Number: CT-5665, Unit: 327th Star Corps, Droids: 600, Rank: trooper
+Nickname: "Pixel", Number: CT-6776, Unit: 91st Reconnaissance Corps, Droids: 490, Rank: sergeant
+Nickname: "Bit", Number: CT-7887, Unit: 41st Elite Corps, Droids: 764, Rank: trooper
+Nickname: "Force", Number: CT-8998, Unit: 501st Legion, Droids: 840, Rank: lieutenant
+Nickname: "Power", Number: CT-0119, Unit: 212th Attack Battalion, Droids: 930, Rank: trooper
+Nickname: "Sev", Number: RC-1207, Unit: Delta Squad, Droids: 12846, Rank: clone commando
+Nickname: "Blast", Number: CT-1220, Unit: 104th Battalion, Droids: 1010, Rank: trooper
+Nickname: "Pulse", Number: CT-2331, Unit: 327th Star Corps, Droids: 520, Rank: trooper
+Nickname: "Spark", Number: CT-3442, Unit: 91st Reconnaissance Corps, Droids: 670, Rank: trooper
+Nickname: "Charge", Number: CT-4553, Unit: 41st Elite Corps, Droids: 790, Rank: trooper
+Nickname: "Fury", Number: CT-5664, Unit: 501st Legion, Droids: 960, Rank: trooper
+Nickname: "Rage", Number: CT-6775, Unit: 212th Attack Battalion, Droids: 440, Rank: sergeant
+Nickname: "Smash", Number: CT-7886, Unit: 104th Battalion, Droids: 820, Rank: trooper
+Nickname: "Crush", Number: CT-8997, Unit: 327th Star Corps, Droids: 1030, Rank: lieutenant
+Nickname: "Blitz", Number: CT-0118, Unit: 91st Reconnaissance Corps, Droids: 550, Rank: trooper
+Nickname: "Moxie", Number: CT-1229, Unit: 41st Elite Corps, Droids: 730, Rank: trooper
+Nickname: "Vigor", Number: CT-2330, Unit: 501st Legion, Droids: 870, Rank: trooper
+Nickname: "Zest", Number: CT-3441, Unit: 212th Attack Battalion, Droids: 620, Rank: trooper
+Nickname: "Flair", Number: CT-4552, Unit: 104th Battalion, Droids: 997, Rank: trooper
+Nickname: "Charm", Number: CT-5663, Unit: 327th Star Corps, Droids: 480, Rank: sergeant
+Nickname: "Glee", Number: CT-6774, Unit: 91st Reconnaissance Corps, Droids: 1050, Rank: trooper
+Nickname: "Hope", Number: CT-7885, Unit: 41st Elite Corps, Droids: 530, Rank: trooper
+Nickname: "Dream", Number: CT-8996, Unit: 501st Legion, Droids: 710, Rank: sergeant
+Nickname: "Focus", Number: CT-0117, Unit: 212th Attack Battalion, Droids: 810, Rank: trooper
+Nickname: "Drive", Number: CT-1228, Unit: 104th Battalion, Droids: 650, Rank: trooper
+Nickname: "Spirt", Number: CT-2339, Unit: 327th Star Corps, Droids: 950, Rank: trooper
+Nickname: "Thrill", Number: CT-3440, Unit: 91st Reconnaissance Corps, Droids: 570, Rank: trooper
+Nickname: "Edge", Number: CT-4551, Unit: 41st Elite Corps, Droids: 770, Rank: lieutenant
+Nickname: "Shift", Number: CT-5662, Unit: 501st Legion, Droids: 880, Rank: trooper
+Nickname: "Slide", Number: CT-6773, Unit: 212th Attack Battalion, Droids: 420, Rank: trooper
+Nickname: "Leap", Number: CT-7884, Unit: 104th Battalion, Droids: 1020, Rank: trooper
+Nickname: "Bound", Number: CT-8995, Unit: 327th Star Corps, Droids: 690, Rank: lieutenant
+Nickname: "Soar", Number: CT-0116, Unit: 91st Reconnaissance Corps, Droids: 590, Rank: trooper
+Nickname: "Glide", Number: CT-1227, Unit: 41st Elite Corps, Droids: 970, Rank: sergeant
+Nickname: "Drift", Number: CT-2338, Unit: 501st Legion, Droids: 442, Rank: trooper
+Nickname: "Swirl", Number: CT-3449, Unit: 212th Attack Battalion, Droids: 1030, Rank: trooper
+Nickname: "Orbit", Number: CT-4550, Unit: 104th Battalion, Droids: 750, Rank: trooper
+Nickname: "Vortex", Number: CT-5661, Unit: 327th Star Corps, Droids: 580, Rank: sergeant
+Nickname: "Twist", Number: CT-6772, Unit: 91st Reconnaissance Corps, Droids: 840, Rank: trooper
+Nickname: "Curl", Number: CT-7883, Unit: 41st Elite Corps, Droids: 700, Rank: trooper
+Nickname: "Blend", Number: CT-8994, Unit: 501st Legion, Droids: 1150, Rank: trooper
+Nickname: "Merge", Number: CT-0115, Unit: 212th Attack Battalion, Droids: 610, Rank: lieutenant
+Nickname: "Mix", Number: CT-1226, Unit: 104th Battalion, Droids: 470, Rank: trooper
+Nickname: "Match", Number: CT-2337, Unit: 327th Star Corps, Droids: 890, Rank: trooper
+Nickname: "Fuse", Number: CT-3448, Unit: 91st Reconnaissance Corps, Droids: 510, Rank: trooper
+Nickname: "Link", Number: CT-4559, Unit: 41st Elite Corps, Droids: 910, Rank: trooper
+Nickname: "Bond", Number: CT-5660, Unit: 501st Legion, Droids: 720, Rank: sergeant
+Nickname: "Ally", Number: CT-6771, Unit: 212th Attack Battalion, Droids: 630, Rank: trooper
+Nickname: "Pact", Number: CT-7882, Unit: 104th Battalion, Droids: 464, Rank: trooper
+Nickname: "Oath", Number: CT-8993, Unit: 327th Star Corps, Droids: 780, Rank: sergeant
+Nickname: "Covenant", Number: CT-0114, Unit: 91st Reconnaissance Corps, Droids: 1040, Rank: trooper
+Nickname: "Truce", Number: CT-1225, Unit: 41st Elite Corps, Droids: 559, Rank: trooper

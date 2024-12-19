@@ -1,5 +1,5 @@
 import java.util.List;
 
 public interface ProcessorInterface {
-    public List<String> process(List<String> data);
+    public List<Clone> process(List<Clone> data);
 }

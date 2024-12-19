@@ -1,26 +1,26 @@
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.concurrent.Callable;
-import java.util.concurrent.ExecutionException;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import java.util.concurrent.Future;
+import java.nio.file.*;
+import java.util.*;
+import java.util.concurrent.*;
 
 public class DataManager {
     public static void main(String[] args) {
-        registerDataProcessor(new FilterProcessor());
         loadData("input.txt");
+        long start = System.nanoTime();
+        registerDataProcessor(new RankSeparationProcessor());
         processData();
+        registerDataProcessor(new ValuesFilterProcessor<>(Clone::getRank, List.of("clone commando")));
+        processData();
+        threadPool.shutdown();
+        long finish = System.nanoTime();
         saveData("output.txt");
+        System.out.println((finish - start) / 1000000);
     }
 
-    private static List<String> data;
+    private static List<Clone> data = new ArrayList<>();
     private static ProcessorInterface dataProcessor;
+    private static ExecutorService threadPool = Executors.newFixedThreadPool(1);
 
 
     public static void registerDataProcessor(Object processor) {
@@ -32,7 +32,14 @@ public class DataManager {
     public static void loadData(String source) {
         Path path = Paths.get(source);
         try {
-            data = Files.readAllLines(path, StandardCharsets.UTF_8);
+            List<String> lines = Files.readAllLines(path, StandardCharsets.UTF_8);
+            for (String line : lines) {
+                String[] columns = line.split(", ");
+                for (int i = 0; i < columns.length; i++) {
+                    columns[i] = columns[i].substring(columns[i].indexOf(":") + 2);
+                }
+                data.add(new Clone(columns[0], columns[1], columns[2], Integer.parseInt(columns[3]), Integer.parseInt(columns[4]), null, -1.0));
+            }
         } catch (IOException e) {
             System.out.println("Data wasn't loaded from file");
             e.printStackTrace();
@@ -41,31 +48,30 @@ public class DataManager {
 
     public static void processData() {
         if (dataProcessor == null) {
-            System.out.println("There is no dataProcessor to process data");
+            System.out.println("There is no dataProcessor to process data, register it");
             return;
         }
-        if (data == null) {
+        if (data.size() == 0) {
             System.out.println("There is no data");
             return;
         }
-        int nThreads = 3;
+        int nThreads = (data.size() >= 1000) ?  1 : 1;
         int subListSize = (int)Math.ceil((double)data.size() / nThreads);
-        ExecutorService threadPool = Executors.newFixedThreadPool(nThreads);
-        ArrayList<Future<List<String>>> results = new ArrayList<>();
+        List<Future<List<Clone>>> results = new ArrayList<>();
         for (int i = 0; i < nThreads; i++) {
-            List<String> subData;
+            List<Clone> subData;
             if (i * subListSize + subListSize <= data.size()) subData = data.subList(i * subListSize, i * subListSize + subListSize);
             else subData = data.subList(i * subListSize, data.size());
-            results.add(threadPool.submit(new Callable<List<String>>() {
+            results.add(threadPool.submit(new Callable<List<Clone>>() {
                 @Override
-                public List<String> call() {
+                public List<Clone> call() {
+                    System.out.println(Thread.currentThread().getName() + " " + subData.size());
                     return dataProcessor.process(subData);
                 }
             }));
         }
-        threadPool.shutdown();
-        List<String> processedData = new ArrayList<>();
-        for (Future<List<String>> future : results) {
+        List<Clone> processedData = new ArrayList<>();
+        for (Future<List<Clone>> future : results) {
             try {
                 processedData.addAll(future.get());
             } catch (InterruptedException | ExecutionException e) {
@@ -78,7 +84,11 @@ public class DataManager {
     public static void saveData(String destination) {
         Path path = Paths.get(destination);
         try {
-            Files.write(path, data, StandardCharsets.UTF_8);
+            List<String> lines = new ArrayList<>();
+            for (Clone clone : data) {
+                lines.add(clone.toString());
+            }
+            Files.write(path, lines, StandardCharsets.UTF_8);
         } catch (IOException e) {
             System.out.println("Data wasn't saved to file");
             e.printStackTrace();
